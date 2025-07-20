@@ -7,13 +7,10 @@ function App() {
 
   return (
     <>
-      {/* Navbar Component */}
-      {/* <Navbar /> */}
-
       <div className="min-h-screen bg-gradient-to-br from-cyan-100 via-white to-blue-50 p-6">
         {/* Page Title */}
         <h1 className="text-5xl md:text-6xl text-cyan-800 font-bold text-center mb-12">
-          Micro Finance System
+          Micro Finance System.
         </h1>
 
         {/* Options Section */}
@@ -25,10 +22,11 @@ function App() {
           >
             <div className="flex flex-col items-center">
               <h2 className="text-xl md:text-2xl font-semibold text-cyan-800 mb-4">
-                Home Loan
+                Home Loan.
               </h2>
               <p className="text-sm text-gray-600 text-center">
-                Secure your dream home with our easy and affordable home loan options.
+                Secure your dream home with our easy and affordable home loan
+                options.
               </p>
             </div>
           </div>
@@ -40,10 +38,11 @@ function App() {
           >
             <div className="flex flex-col items-center">
               <h2 className="text-xl md:text-2xl font-semibold text-cyan-800 mb-4">
-                Wedding Loan
+                Wedding Loan.
               </h2>
               <p className="text-sm text-gray-600 text-center">
-                Plan your perfect wedding with flexible loan packages tailored for you.
+                Plan your perfect wedding with flexible loan packages tailored
+                for you.
               </p>
             </div>
           </div>
@@ -55,10 +54,11 @@ function App() {
           >
             <div className="flex flex-col items-center">
               <h2 className="text-xl md:text-2xl font-semibold text-cyan-800 mb-4">
-                Education Loan
+                Education Loan.
               </h2>
               <p className="text-sm text-gray-600 text-center">
-                Achieve your educational goals with our hassle-free loan services.
+                Achieve your educational goals with our hassle-free loan
+                services.
               </p>
             </div>
           </div>
@@ -70,10 +70,11 @@ function App() {
           >
             <div className="flex flex-col items-center">
               <h2 className="text-xl md:text-2xl font-semibold text-cyan-800 mb-4">
-                Business Loan
+                Business Loan.
               </h2>
               <p className="text-sm text-gray-600 text-center">
-                Expand your business with our affordable and flexible business loan plans.
+                Expand your business with our affordable and flexible business
+                loan plans. It will Grow To your Life.
               </p>
             </div>
           </div>
